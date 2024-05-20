@@ -1,0 +1,40 @@
+.main, .main-2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.main-1, .main-3{
+    width: 40%;
+    align-self: center;
+    margin: 0%;
+}
+.main-2{
+    width: 20%;
+    align-self: center;
+}
+hr{
+    width: auto;
+}
+.SUBCLASS{
+    text-align: center;
+    background-color: ;
+    align-content: center;
+}
+.container{
+    border: 2px solid black;
+}
+
+.SUBCLASS .normal {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 15px 30px;
+    color: black;
+    background-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    transition: .2s;
+    background-color: lightsalmon;
+
+
+}
